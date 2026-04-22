@@ -1,0 +1,313 @@
+NOMBRE;COLOR;COSTEMANA;TIPOS;EDICION;FECHA;DESCRIPCION;ESTADISTICAS;CANTIDAD
+Ardent Elementalist;R;{3}{R};Creature — Human Shaman;Innistrad: Midnight Hunt;2021-09-24;When this creature enters, return target instant or sorcery card from your graveyard to your hand.;2/1;1
+Pyre Spawn;R;{4}{R}{R};Creature — Elemental;Innistrad: Crimson Vow;2021-11-19;When this creature dies, it deals 3 damage to any target.;6/4;1
+Maw of Kozilek;;{3}{R};Creature — Eldrazi Drone;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+{C}: This creature gets +2/-2 until end of turn. ({C} represents colorless mana.)";2/5;1
+Reckless Bushwhacker;R;{2}{R};Creature — Goblin Warrior Ally;Oath of the Gatewatch;2016-01-22;"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Haste
+When this creature enters, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.";2/1;2
+Cut Propulsion;R;{2}{R};Instant;Edge of Eternities;2025-08-01;Target creature deals damage to itself equal to its power. If that creature has flying, it deals twice that much damage to itself instead.;/;1
+Frontline War-Rager;R;{2}{R};Creature — Kavu Soldier;Edge of Eternities;2025-08-01;At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature.;2/3;1
+Hungry Ridgewolf;R;{1}{R};Creature — Wolf;Innistrad Remastered;2025-01-24;As long as you control another Wolf or Werewolf, this creature gets +1/+0 and has trample.;2/2;2
+Invasive Maneuvers;R;{1}{R};Instant;Edge of Eternities;2025-08-01;Invasive Maneuvers deals 3 damage to target creature. It deals 5 damage instead if you control a Spacecraft.;/;1
+Mayhem Patrol;R;{1}{R};Creature — Devil Warrior;Streets of New Capenna;2022-04-29;"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever this creature attacks, target creature gets +1/+0 until end of turn.
+Blitz {1}{R} (If you cast this spell for its blitz cost, it gains haste and ""When this creature dies, draw a card."" Sacrifice it at the beginning of the next end step.)";1/2;1
+Zookeeper Mechan;R;{1}{R};Artifact Creature — Robot;Edge of Eternities;2025-08-01;"{T}: Add {R}.
+{6}{R}: Target creature you control gets +4/+0 until end of turn. Activate only as a sorcery.";1/3;2
+Molecular Modifier;R;{2}{R};Creature — Kavu Artificer;Edge of Eternities;2025-08-01;At the beginning of combat on your turn, target creature you control gets +1/+0 and gains first strike until end of turn.;2/2;1
+Oreplate Pangolin;R;{1}{R};Artifact Creature — Robot Pangolin;Edge of Eternities;2025-08-01;Whenever another artifact you control enters, you may pay {1}. If you do, put a +1/+1 counter on this creature.;2/2;1
+Expedite;R;{R};Instant;Commander Legends;2020-11-20;"Target creature gains haste until end of turn.
+Draw a card.";/;3
+Red Tiger Mechan;R;{3}{R};Artifact Creature — Robot Cat;Edge of Eternities;2025-08-01;"Haste
+Warp {1}{R} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";3/3;1
+Tyrant of Valakut;R;{5}{R}{R};Creature — Dragon;Oath of the Gatewatch;2016-01-22;"Surge {3}{R}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Flying
+When this creature enters, if its surge cost was paid, it deals 3 damage to any target.";5/4;1
+Craven Hulk;R;{3}{R};Creature — Giant Coward;Kaldheim;2021-02-05;This creature can't block alone.;4/4;1
+Kavaron Turbodrone;R;{2}{R};Artifact Creature — Robot Scout;Edge of Eternities;2025-08-01;{T}: Target creature you control gets +1/+1 and gains haste until end of turn. Activate only as a sorcery.;2/3;1
+Unlucky Witness;R;{R};Creature — Human Citizen;Streets of New Capenna;2022-04-29;When this creature dies, exile the top two cards of your library. Until your next end step, you may play one of those cards.;1/1;1
+Hemosymbic Mite;G;{G};Creature — Mite;Edge of Eternities;2025-08-01;Whenever this creature becomes tapped, another target creature you control gets +X/+X until end of turn, where X is this creature's power.;1/1;1
+Oakshade Stalker // Moonlit Ambusher;;;Creature — Human Ranger Werewolf // Creature — Werewolf;Innistrad: Crimson Vow;2021-11-19;;/;2
+Arlinn, Voice of the Pack;G;{4}{G}{G};Legendary Planeswalker — Arlinn;War of the Spark;2019-05-03;"Each creature you control that's a Wolf or a Werewolf enters with an additional +1/+1 counter on it.
+−2: Create a 2/2 green Wolf creature token.";/;1
+Harmonious Grovestrider;G;{3}{G}{G};Creature — Beast;Edge of Eternities;2025-08-01;"Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Harmonious Grovestrider's power and toughness are each equal to the number of lands you control.";*/*;1
+Fungal Colossus;G;{6}{G};Creature — Fungus Beast;Edge of Eternities;2025-08-01;This spell costs {X} less to cast, where X is the number of differently named lands you control.;5/5;1
+Sami's Curiosity;G;{G};Sorcery;Edge of Eternities;2025-08-01;"You gain 2 life. Create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")";/;1
+Lashwhip Predator;G;{4}{G}{G};Creature — Plant Beast;Edge of Eternities;2025-08-01;"This spell costs {2} less to cast if your opponents control three or more creatures.
+Reach";5/7;1
+Thawbringer;G;{2}{G};Creature — Insect Scout;Edge of Eternities;2025-08-01;When this creature enters or dies, surveil 1. (Look at the top card of your library. You may put it into your graveyard.);4/2;2
+Canopy Gorger;G;{4}{G}{G};Creature — Wurm;Oath of the Gatewatch;2016-01-22;;6/5;1
+Dawnhart Disciple;G;{1}{G};Creature — Human Warlock;Innistrad Remastered;2025-01-24;Whenever another Human you control enters, this creature gets +1/+1 until end of turn.;2/2;3
+Drix Fatemaker;G;{3}{G};Creature — Drix Wizard;Edge of Eternities;2025-08-01;"When this creature enters, put a +1/+1 counter on target creature.
+Each creature you control with a +1/+1 counter on it has trample.
+Warp {1}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";3/2;1
+Icecave Crasher;G;{3}{G};Creature — Beast;Edge of Eternities;2025-08-01;"Trample
+Landfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.";4/4;1
+Atmospheric Greenhouse;G;{4}{G};Artifact — Spacecraft;Edge of Eternities;2025-08-01;"When this Spacecraft enters, put a +1/+1 counter on each creature you control.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying, trample";5/4;2
+Rhox Pummeler;G;{5}{G};Creature — Rhino Soldier;Streets of New Capenna;2022-04-29;"This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+This creature has trample as long as it has a shield counter on it.";6/3;2
+Hookhand Mariner // Riphook Raider;;;Creature — Human Werewolf // Creature — Werewolf;Innistrad: Crimson Vow;2021-11-19;;/;1
+Embodiment of Insight;G;{4}{G};Creature — Elemental;Zendikar Rising Commander;2020-09-25;"Vigilance
+Land creatures you control have vigilance.
+Landfall — Whenever a land you control enters, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.";4/4;1
+Intrepid Tenderfoot;G;{1}{G};Creature — Insect Citizen;Edge of Eternities;2025-08-01;{3}: Put a +1/+1 counter on this creature. Activate only as a sorcery.;2/2;1
+Gene Pollinator;G;{G};Artifact Creature — Robot Insect;Edge of Eternities;2025-08-01;{T}, Tap an untapped permanent you control: Add one mana of any color.;1/2;1
+Sunbathing Rootwalla;G;{1}{G};Creature — Lizard;Dominaria United;2022-09-09;Domain — {3}{G}: Until end of turn, this creature gets +1/+1 for each basic land type among lands you control. Activate only once each turn.;2/2;2
+Vile Redeemer;;{2}{G};Creature — Eldrazi;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+Flash
+When you cast this spell, you may pay {C}. If you do, create a 1/1 colorless Eldrazi Scion creature token for each nontoken creature that died under your control this turn. Those tokens have ""Sacrifice this token: Add {C}.""";3/3;1
+Edge Rover;G;{G};Artifact Creature — Robot Scout;Edge of Eternities;2025-08-01;"Reach
+When this creature dies, each player creates a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")";2/2;2
+Terrasymbiosis;G;{2}{G};Enchantment;Edge of Eternities;2025-08-01;Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn.;/;1
+Galactic Wayfarer;G;{2}{G};Creature — Human Scout;Edge of Eternities;2025-08-01;"When this creature enters, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")";3/3;3
+Bonds of Mortality;G;{1}{G};Enchantment;Oath of the Gatewatch;2016-01-22;"When this enchantment enters, draw a card.
+{G}: Creatures your opponents control lose hexproof and indestructible until end of turn.";/;1
+Stalking Drone;;{1}{G};Creature — Eldrazi Drone;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+{C}: This creature gets +1/+2 until end of turn. Activate only once each turn. ({C} represents colorless mana.)";2/2;1
+Spatial Contortion;;{1}{C};Instant;Commander Masters;2023-08-04;"({C} represents colorless mana.)
+Target creature gets +3/-3 until end of turn.";/;1
+Space-Time Anomaly;UW;{2}{W}{U};Sorcery;Edge of Eternities;2025-08-01;Target player mills cards equal to your life total.;/;1
+Exotic Pets;UW;{1}{W}{U};Instant;Streets of New Capenna;2022-04-29;"Create two 1/1 blue Fish creature tokens with ""This token can't be blocked."" Then for each kind of counter among creatures you control, put a counter of that kind on either of those tokens.";/;1
+Siphon Insight;BU;{U}{B};Instant;Outlaws of Thunder Junction Commander;2024-04-19;"Look at the top two cards of target opponent's library. Exile one of them face down and put the other on the bottom of that library. You may play the exiled card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.
+Flashback {1}{U}{B}";/;2
+Mm'menon, Uthros Exile;RU;{1}{U}{R};Legendary Creature — Jellyfish Advisor;Edge of Eternities;2025-08-01;"Flying
+Whenever an artifact you control enters, put a +1/+1 counter on target creature.";1/3;1
+Bloodtithe Harvester;BR;{B}{R};Creature — Vampire;Innistrad Remastered;2025-01-24;"When this creature enters, create a Blood token. (It's an artifact with ""{1}, {T}, Discard a card, Sacrifice this token: Draw a card."")
+{T}, Sacrifice this creature: Target creature gets -X/-X until end of turn, where X is twice the number of Blood tokens you control. Activate only as a sorcery.";3/2;1
+Fatal Grudge;BR;{B}{R};Sorcery;Streets of New Capenna;2022-04-29;"As an additional cost to cast this spell, sacrifice a nonland permanent.
+Each opponent chooses a permanent they control that shares a card type with the sacrificed permanent and sacrifices it.
+Draw a card.";/;1
+Baloth Null;BG;{4}{B}{G};Creature — Zombie Beast;Masters 25;2018-03-16;When this creature enters, return up to two target creature cards from your graveyard to your hand.;4/5;1
+Haliya, Ascendant Cadet;GW;{2}{G}{W}{W};Legendary Creature — Human Soldier;Edge of Eternities;2025-08-01;"Whenever Haliya enters or attacks, put a +1/+1 counter on target creature you control.
+Whenever one or more creatures you control with +1/+1 counters on them deal combat damage to a player, draw a card.";3/3;2
+Brokers Charm;GUW;{G}{W}{U};Instant;Streets of New Capenna;2022-04-29;"Choose one —
+• Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature or planeswalker an opponent controls.
+• Destroy target enchantment.
+• Draw two cards.";/;1
+Infinite Guideline Station;BGRUW;{W}{U}{B}{R}{G};Legendary Artifact — Spacecraft;Edge of Eternities;2025-08-01;"When Infinite Guideline Station enters, create a tapped 2/2 colorless Robot artifact creature token for each multicolored permanent you control.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 12+.)
+12+ | Flying
+Whenever Infinite Guideline Station attacks, draw a card for each multicolored permanent you control.";7/15;1
+Pinnacle Kill-Ship;;{7};Artifact — Spacecraft;Edge of Eternities;2025-08-01;"When this Spacecraft enters, it deals 10 damage to up to one target creature.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying";7/7;2
+Nutrient Block;;{1};Artifact — Food;Edge of Eternities;2025-08-01;"Indestructible (Effects that say ""destroy"" don't destroy this artifact.)
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+When this artifact is put into a graveyard from the battlefield, draw a card.";/;3
+Chrome Cat;;{3};Artifact Creature — Cat;Streets of New Capenna;2022-04-29;When this creature enters, scry 1.;3/2;1
+Chrome Companion;;{2};Artifact Creature — Dog;Edge of Eternities;2025-08-01;"Whenever this creature becomes tapped, you gain 1 life.
+{2}, {T}: Put target card from a graveyard on the bottom of its owner's library.";2/1;3
+Commander's Sphere;;{3};Artifact;Lorwyn Eclipsed Commander;2026-01-23;"{T}: Add one mana of any color in your commander's color identity.
+Sacrifice this artifact: Draw a card.";/;2
+Wurmwall Sweeper;;{2};Artifact — Spacecraft;Edge of Eternities;2025-08-01;"When this Spacecraft enters, surveil 2.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 4+.)
+4+ | Flying";2/2;1
+Seer's Lantern;;{3};Artifact;Commander Legends;2020-11-20;"{T}: Add {C}.
+{2}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)";/;2
+Eldrazi Mimic;;{2};Creature — Eldrazi;Oath of the Gatewatch;2016-01-22;Whenever another colorless creature you control enters, you may change this creature's base power and toughness to that creature's power and toughness until end of turn.;2/1;1
+Warden of Geometries;;{4};Creature — Eldrazi Drone;Oath of the Gatewatch;2016-01-22;"Vigilance
+{T}: Add {C}. ({C} represents colorless mana.)";2/3;1
+Blighted Gorge;;;Land;Duel Decks: Merfolk vs. Goblins;2017-10-24;"{T}: Add {C}.
+{4}{R}, {T}, Sacrifice this land: It deals 2 damage to any target.";/;1
+Command Bridge;;;Land;Edge of Eternities;2025-08-01;"This land enters tapped.
+When this land enters, sacrifice it unless you tap an untapped permanent you control.
+{T}: Add one mana of any color.";/;1
+Scavenger Grounds;;;Land — Desert;Outlaws of Thunder Junction Commander;2024-04-19;"{T}: Add {C}.
+{2}, {T}, Sacrifice a Desert: Exile all graveyards.";/;1
+Crumbling Vestige;;;Land;Oath of the Gatewatch;2016-01-22;"This land enters tapped.
+When this land enters, add one mana of any color.
+{T}: Add {C}. ({C} represents colorless mana.)";/;1
+Rimewood Falls;;;Snow Land — Forest Island;Kaldheim;2021-02-05;"({T}: Add {G} or {U}.)
+This land enters tapped.";/;1
+Deepfathom Skulker;;{5}{U};Creature — Eldrazi;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+Whenever a creature you control deals combat damage to a player, you may draw a card.
+{3}{C}: Target creature can't be blocked this turn. ({C} represents colorless mana.)";4/4;1
+Roiling Waters;U;{5}{U}{U};Sorcery;Oath of the Gatewatch;2016-01-22;Return up to two target creatures your opponents control to their owners' hands. Target player draws two cards.;/;1
+Starbreach Whale;U;{4}{U};Creature — Whale;Edge of Eternities;2025-08-01;"Flying
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Warp {1}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";3/5;1
+Screaming Swarm;U;{5}{U};Creature — Bird Horror;Innistrad: Crimson Vow;2021-11-19;"Flying
+Whenever you attack with one or more creatures, target player mills that many cards. (To mill a card, a player puts the top card of their library into their graveyard.)
+{2}{U}: Put this card from your graveyard into your library second from the top.";4/4;1
+Sinister Cryologist;U;{2}{U};Creature — Jellyfish Wizard;Edge of Eternities;2025-08-01;"When this creature enters, target creature an opponent controls gets -3/-0 until end of turn.
+Warp {U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";2/3;1
+Ertai's Scorn;U;{1}{U}{U};Instant;Dominaria United;2022-09-09;"This spell costs {U} less to cast if an opponent cast two or more spells this turn.
+Counter target spell.";/;2
+Mahamoti Djinn;U;{4}{U}{U};Creature — Djinn;Ultimate Masters;2018-12-07;Flying (This creature can't be blocked except by creatures with flying or reach.);5/6;1
+Scrapskin Drake;U;{2}{U};Creature — Zombie Drake;Duel Decks: Blessed vs. Cursed;2016-02-26;"Flying (This creature can't be blocked except by creatures with flying or reach.)
+This creature can block only creatures with flying.";2/3;1
+Umara Entangler;U;{1}{U};Creature — Merfolk Rogue Ally;Oath of the Gatewatch;2016-01-22;Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.);2/1;1
+Into the Void;U;{3}{U};Sorcery;Conspiracy: Take the Crown;2016-08-26;Return up to two target creatures to their owners' hands.;/;1
+Emissary Escort;U;{1}{U};Artifact Creature — Robot Soldier;Edge of Eternities;2025-08-01;This creature gets +X/+0, where X is the greatest mana value among other artifacts you control.;0/4;1
+Mechan Shieldmate;U;{1}{U};Artifact Creature — Robot Soldier;Edge of Eternities;2025-08-01;"Defender
+As long as an artifact entered the battlefield under your control this turn, this creature can attack as though it didn't have defender.";3/2;1
+Cloudsculpt Technician;U;{2}{U};Creature — Jellyfish Artificer;Edge of Eternities;2025-08-01;"Flying
+As long as you control an artifact, this creature gets +1/+0.";1/4;1
+Steelclad Spirit;U;{1}{U};Creature — Spirit;Innistrad: Crimson Vow;2021-11-19;"Defender
+Whenever an enchantment you control enters, this creature can attack this turn as though it didn't have defender.";3/3;1
+Uthros Scanship;U;{3}{U};Artifact — Spacecraft;Edge of Eternities;2025-08-01;"When this Spacecraft enters, draw two cards, then discard a card.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying";4/4;1
+Chill of the Grave;U;{2}{U};Instant;Innistrad: Crimson Vow;2021-11-19;"This spell costs {1} less to cast if you control a Zombie.
+Tap target creature. It doesn't untap during its controller's next untap step.
+Draw a card.";/;1
+Binding Geist // Spectral Binding;;;Creature — Spirit // Enchantment — Aura;Innistrad: Crimson Vow;2021-11-19;;/;1
+Illvoi Galeblade;U;{U};Creature — Jellyfish Warrior;Edge of Eternities;2025-08-01;"Flash
+Flying
+{2}, Sacrifice this creature: Draw a card.";1/1;1
+Inga Rune-Eyes;U;{3}{U};Legendary Creature — Human Wizard;Commander Masters;2023-08-04;"When Inga Rune-Eyes enters, scry 3.
+When Inga Rune-Eyes dies, draw three cards if three or more creatures died this turn.";3/3;1
+Abstruse Interference;;{2}{U};Instant;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+Counter target spell unless its controller pays {1}. You create a 1/1 colorless Eldrazi Scion creature token. It has ""Sacrifice this token: Add {C}."" ({C} represents colorless mana.)";/;3
+Cloud Manta;U;{3}{U};Creature — Fish;Battle for Zendikar;2015-10-02;Flying;3/2;2
+Selfcraft Mechan;U;{3}{U};Artifact Creature — Robot Artificer;Edge of Eternities;2025-08-01;When this creature enters, you may sacrifice an artifact. When you do, put a +1/+1 counter on target creature and draw a card.;3/4;1
+Mental Modulation;U;{1}{U};Instant;Edge of Eternities;2025-08-01;"This spell costs {1} less to cast during your turn.
+Tap target artifact or creature.
+Draw a card.";/;1
+Berg Strider;U;{4}{U};Snow Creature — Giant Wizard;Kaldheim;2021-02-05;When this creature enters, tap target artifact or creature an opponent controls. If {S} was spent to cast this spell, that permanent doesn't untap during its controller's next untap step. ({S} is mana from a snow source.);4/4;1
+Mists of Littjara;U;{1}{U};Enchantment — Aura;Kaldheim;2021-02-05;"Flash
+Enchant creature or Vehicle
+Enchanted creature gets -3/-0.";/;1
+Gravity Negator;;{3}{U};Creature — Eldrazi Drone;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+Flying
+Whenever this creature attacks, you may pay {C}. If you do, another target creature gains flying until end of turn. ({C} represents colorless mana.)";2/3;1
+Negate;U;{1}{U};Instant;Teenage Mutant Ninja Turtles;2026-03-06;Counter target noncreature spell.;/;1
+Steelswarm Operator;U;{1}{U};Artifact Creature — Robot Soldier;Edge of Eternities;2025-08-01;"Flying
+{T}: Add {U}. Spend this mana only to cast an artifact spell.
+{T}: Add {U}{U}. Spend this mana only to activate abilities of artifact sources.";1/1;1
+Windrider Patrol;U;{3}{U}{U};Creature — Merfolk Wizard;Battle for Zendikar;2015-10-02;"Flying
+Whenever this creature deals combat damage to a player, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)";4/3;1
+Codecracker Hound;U;{2}{U};Creature — Dog;Edge of Eternities;2025-08-01;"When this creature enters, look at the top two cards of your library. Put one into your hand and the other into your graveyard.
+Warp {2}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";2/1;2
+Cyclone Sire;U;{4}{U};Creature — Elemental;Oath of the Gatewatch;2016-01-22;"Flying
+When this creature dies, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.";3/4;1
+Psionic Snoop;U;{2}{U};Creature — Human Rogue;Streets of New Capenna;2022-04-29;"Flash
+When this creature enters, it connives. (Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)";0/3;1
+Rune of Flight;U;{1}{U};Enchantment — Aura Rune;Kaldheim;2021-02-05;"Enchant permanent
+When this Aura enters, draw a card.
+As long as enchanted permanent is a creature, it has flying.
+As long as enchanted permanent is an Equipment, it has ""Equipped creature has flying.""";/;1
+Starwinder;U;{5}{U}{U};Creature — Leviathan;Edge of Eternities;2025-08-01;"Whenever a creature you control deals combat damage to a player, you may draw that many cards.
+Warp {2}{U}{U} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";7/7;1
+Weave Fate;U;{3}{U};Instant;Magic Origins;2015-07-17;Draw two cards.;/;1
+Cruel Witness;U;{2}{U}{U};Creature — Bird Horror;Innistrad: Crimson Vow;2021-11-19;"Flying
+Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)";3/3;1
+Undercover Operative;U;{2}{U}{U};Creature — Shapeshifter Rogue;Streets of New Capenna;2022-04-29;You may have this creature enter as a copy of any creature on the battlefield, except it enters with a shield counter on it if you control that creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.);0/0;1
+Jwar Isle Avenger;U;{4}{U};Creature — Sphinx;Oath of the Gatewatch;2016-01-22;"Surge {2}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Flying";3/3;2
+Wanderlight Spirit;U;{2}{U};Creature — Spirit;Innistrad: Crimson Vow;2021-11-19;"Flying
+This creature can block only creatures with flying.";2/3;1
+Wingshield Agent;U;{2}{U};Creature — Human Soldier;Streets of New Capenna;2022-04-29;"This creature enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+Whenever this creature attacks, up to one other target creature gains flying until end of turn.";2/3;1
+All-Fates Stalker;W;{3}{W};Creature — Drix Assassin;Edge of Eternities;2025-08-01;"When this creature enters, exile up to one target non-Assassin creature until this creature leaves the battlefield.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";2/3;1
+Dual-Sun Adepts;W;{2}{W};Creature — Human Soldier;Edge of Eternities;2025-08-01;"Double strike
+{5}: Creatures you control get +1/+1 until end of turn.";2/2;1
+Eagle of the Watch;W;{2}{W};Creature — Bird;Magic Origins;2015-07-17;Flying, vigilance;2/1;1
+Zealous Display;W;{2}{W};Instant;Edge of Eternities;2025-08-01;Creatures you control get +2/+0 until end of turn. If it's not your turn, untap those creatures.;/;2
+Aegis Angel;W;{4}{W}{W};Creature — Angel;Archenemy: Nicol Bolas;2017-06-16;"Flying (This creature can't be blocked except by creatures with flying or reach.)
+When this creature enters, another target permanent gains indestructible for as long as you control this creature. (Effects that say ""destroy"" don't destroy it. A creature with indestructible can't be destroyed by damage.)";5/5;1
+Apostle of Purifying Light;W;{1}{W};Creature — Human Cleric;Core Set 2020;2019-07-12;"Protection from black (This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything black.)
+{2}: Exile target card from a graveyard.";2/1;4
+Yoked Ox;W;{W};Creature — Ox;Core Set 2020;2019-07-12;;0/4;2
+Scout for Survivors;W;{2}{W};Sorcery;Edge of Eternities;2025-08-01;Return up to three target creature cards with total mana value 3 or less from your graveyard to the battlefield. Put a +1/+1 counter on each of them.;/;1
+Akroan Jailer;W;{W};Creature — Human Soldier;Magic Origins;2015-07-17;{2}{W}, {T}: Tap target creature.;1/1;1
+Sentinel of the Eternal Watch;W;{5}{W};Creature — Giant Soldier;Magic Origins;2015-07-17;"Vigilance (Attacking doesn't cause this creature to tap.)
+At the beginning of combat on each opponent's turn, tap target creature that player controls.";4/6;1
+Codespell Cleric;W;{W};Creature — Human Cleric;Kaldheim;2021-02-05;"Vigilance
+When this creature enters, if it was the second spell you cast this turn, put a +1/+1 counter on target creature.";1/1;1
+Dockworker Drone;W;{1}{W};Artifact Creature — Robot;Edge of Eternities;2025-08-01;"This creature enters with a +1/+1 counter on it.
+When this creature dies, put its counters on target creature you control.";1/1;1
+Pulsar Squadron Ace;W;{1}{W};Creature — Human Pilot;Edge of Eternities;2025-08-01;When this creature enters, look at the top five cards of your library. You may reveal a Spacecraft card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn't put a card into your hand this way, put a +1/+1 counter on this creature.;1/2;3
+Sunstar Expansionist;W;{1}{W};Creature — Human Knight;Edge of Eternities;2025-08-01;"When this creature enters, if an opponent controls more lands than you, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")
+Landfall — Whenever a land you control enters, this creature gets +1/+0 until end of turn.";2/3;1
+Brightspear Zealot;W;{2}{W};Creature — Human Soldier;Edge of Eternities;2025-08-01;"Vigilance
+This creature gets +2/+0 as long as you've cast two or more spells this turn.";2/4;1
+Radiant Strike;W;{3}{W};Instant;Edge of Eternities;2025-08-01;Destroy target artifact or tapped creature. You gain 3 life.;/;2
+Hold for Ransom;W;{1}{W};Enchantment — Aura;Streets of New Capenna;2022-04-29;"Enchant creature
+Enchanted creature can't attack or block and has ""{7}: Hold for Ransom's controller sacrifices it and draws a card. Activate only as a sorcery.""";/;1
+Heavy Infantry;W;{4}{W};Creature — Human Soldier;Magic Origins;2015-07-17;When this creature enters, tap target creature an opponent controls.;3/4;1
+Piercing Light;W;{W};Instant;Innistrad: Crimson Vow;2021-11-19;Piercing Light deals 2 damage to target attacking or blocking creature. Scry 1. (Look at the top card of your library. You may put that card on the bottom.);/;1
+Luxknight Breacher;W;{3}{W};Creature — Human Knight;Edge of Eternities;2025-08-01;This creature enters with a +1/+1 counter on it for each other creature and/or artifact you control.;2/2;2
+Beyond the Quiet;W;{3}{W}{W};Sorcery;Edge of Eternities;2025-08-01;Exile all creatures and Spacecraft.;/;1
+Weftblade Enhancer;W;{5}{W};Creature — Drix Artificer;Edge of Eternities;2025-08-01;"When this creature enters, put a +1/+1 counter on each of up to two target creatures.
+Warp {2}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";3/4;2
+Starfighter Pilot;W;{1}{W};Creature — Human Pilot;Edge of Eternities;2025-08-01;Whenever this creature becomes tapped, surveil 1. (Look at the top card of your library. You may put it into your graveyard.);2/2;1
+Auxiliary Boosters;W;{4}{W};Artifact — Equipment;Edge of Eternities;2025-08-01;"When this Equipment enters, create a 2/2 colorless Robot artifact creature token and attach this Equipment to it.
+Equipped creature gets +1/+2 and has flying.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)";/;2
+Expedition Raptor;W;{3}{W}{W};Creature — Bird;Battlebond;2018-06-08;"Flying
+When this creature enters, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)";2/2;1
+Supernatural Rescue;W;{3}{W};Enchantment — Aura;Innistrad: Crimson Vow;2021-11-19;"This spell has flash as long as you control a Spirit.
+When you cast this spell, tap up to two target creatures you don't control.
+Enchant creature you control
+Enchanted creature gets +1/+2.";/;1
+Revelation of Power;W;{1}{W};Instant;Streets of New Capenna;2022-04-29;Target creature gets +2/+2 until end of turn. If it has a counter on it, it also gains flying and lifelink until end of turn.;/;1
+Valor of the Worthy;W;{W};Enchantment — Aura;Kaldheim;2021-02-05;"Enchant creature
+Enchanted creature gets +1/+1.
+When enchanted creature leaves the battlefield, create a 1/1 white Spirit creature token with flying.";/;1
+Valor in Akros;W;{3}{W};Enchantment;Double Masters;2020-08-07;Whenever a creature you control enters, creatures you control get +1/+1 until end of turn.;/;1
+Dawnstrike Vanguard;W;{5}{W};Creature — Human Knight;Edge of Eternities;2025-08-01;"Lifelink
+At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on each creature you control other than this creature.";4/5;1
+Starport Security;W;{W};Artifact Creature — Robot Soldier;Edge of Eternities;2025-08-01;{3}{W}, {T}: Tap another target creature. This ability costs {2} less to activate if you control a creature with a +1/+1 counter on it.;1/1;1
+Parasitic Grasp;B;{1}{B};Instant;Innistrad: Crimson Vow;2021-11-19;"Cleave {1}{B}{B} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)
+Parasitic Grasp deals 3 damage to target [Human] creature. You gain 3 life.";/;3
+Corpse Churn;B;{1}{B};Instant;Ravnica: Clue Edition;2024-02-23;Mill three cards, then you may return a creature card from your graveyard to your hand. (To mill three cards, put the top three cards of your library into your graveyard.);/;1
+Alpharael, Stonechosen;B;{3}{B}{B};Legendary Creature — Human Cleric;Edge of Eternities;2025-08-01;"Ward—Discard a card at random.
+Void — Whenever Alpharael attacks, if a nonland permanent left the battlefield this turn or a spell was warped this turn, defending player loses half their life, rounded up.";3/3;1
+Cutthroat Contender;B;{B};Creature — Vampire Warrior;Streets of New Capenna;2022-04-29;Pay 1 life: This creature gets +1/+0 until end of turn. Activate only once each turn.;1/1;1
+Decode Transmissions;B;{2}{B};Sorcery;Edge of Eternities;2025-08-01;"You draw two cards and lose 2 life.
+Void — If a nonland permanent left the battlefield this turn or a spell was warped this turn, instead you draw two cards and each opponent loses 2 life.";/;2
+Duress;B;{B};Sorcery;Foundations;2024-11-15;Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.;/;2
+Dream Devourer;B;{1}{B};Creature — Demon Cleric;Kaldheim;2021-02-05;"Each nonland card in your hand without foretell has foretell. Its foretell cost is equal to its mana cost reduced by {2}. (During your turn, you may pay {2} and exile it from your hand face down. Cast it on a later turn for its foretell cost.)
+Whenever you foretell a card, this creature gets +2/+0 until end of turn.";0/3;1
+Embrace Oblivion;B;{B};Sorcery;Edge of Eternities;2025-08-01;"As an additional cost to cast this spell, sacrifice an artifact or creature.
+Destroy target creature or Spacecraft.";/;1
+Monoist Sentry;B;{B};Artifact Creature — Robot;Edge of Eternities;2025-08-01;Defender;4/1;3
+Infernal Grasp;B;{1}{B};Instant;Secrets of Strixhaven Commander;2026-04-24;Destroy target creature. You lose 2 life.;/;1
+Kozilek's Translator;;{4}{B};Creature — Eldrazi Drone;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+Pay 1 life: Add {C}. Activate only once each turn. ({C} represents colorless mana.)";3/5;2
+Null Caller;B;{3}{B};Creature — Vampire Shaman;Commander Legends;2020-11-20;{3}{B}, Exile a creature card from your graveyard: Create a tapped 2/2 black Zombie creature token.;2/4;1
+Join the Maestros;B;{4}{B};Sorcery;Streets of New Capenna;2022-04-29;"Casualty 2 (As you cast this spell, you may sacrifice a creature with power 2 or greater. When you do, copy this spell.)
+Create a 4/3 black Ogre Warrior creature token.";/;1
+Swarm Culler;B;{3}{B};Creature — Insect Warrior;Edge of Eternities;2025-08-01;"Flying
+Whenever this creature becomes tapped, you may sacrifice another creature or artifact. If you do, draw a card.";2/4;1
+Perigee Beckoner;B;{4}{B};Creature — Horror;Edge of Eternities;2025-08-01;"When this creature enters, until end of turn, another target creature you control gets +2/+0 and gains ""When this creature dies, return it to the battlefield tapped under its owner's control.""
+Warp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)";4/5;2
+Beamsaw Prospector;B;{1}{B};Creature — Human Artificer;Edge of Eternities;2025-08-01;"When this creature dies, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")";2/1;1
+Gravpack Monoist;B;{2}{B};Creature — Human Scout;Edge of Eternities;2025-08-01;"Flying
+When this creature dies, create a tapped 2/2 colorless Robot artifact creature token.";2/1;1
+Courier Bat;B;{2}{B};Creature — Bat;Innistrad: Crimson Vow;2021-11-19;"Flying
+When this creature enters, if you gained life this turn, return up to one target creature card from your graveyard to your hand.";2/2;1
+Dark Endurance;B;{1}{B};Instant;Edge of Eternities;2025-08-01;"This spell costs {1} less to cast if it targets a blocking creature.
+Target creature gets +2/+0 and gains indestructible until end of turn. (Damage and effects that say ""destroy"" don't destroy it.)";/;1
+Witness the End;;{3}{B};Sorcery;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+Target opponent exiles two cards from their hand and loses 2 life.";/;1
+Ray of Enfeeblement;B;{B};Instant;Adventures in the Forgotten Realms;2021-07-23;Target creature gets -4/-1 until end of turn. If that creature is white, it gets -4/-4 until end of turn instead.;/;2
+Grisly Ritual;B;{5}{B};Sorcery;Innistrad: Crimson Vow;2021-11-19;"Destroy target creature or planeswalker. Create two Blood tokens. (They're artifacts with ""{1}, {T}, Discard a card, Sacrifice this token: Draw a card."")";/;1
+Havoc Sower;;{3}{B};Creature — Eldrazi Drone;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+{1}{C}: This creature gets +2/+1 until end of turn. ({C} represents colorless mana.)";3/3;1
+Vote Out;B;{3}{B};Sorcery;Edge of Eternities;2025-08-01;"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+Destroy target creature.";/;2
+Slaughter Drone;;{1}{B};Creature — Eldrazi Drone;Oath of the Gatewatch;2016-01-22;"Devoid (This card has no color.)
+{C}: This creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it. {C} represents colorless mana.)";2/2;1
+Roving Actuator;R;{3}{R};Artifact Creature — Robot;Edge of Eternities;2025-08-01;Void — When this creature enters, if a nonland permanent left the battlefield this turn or a spell was warped this turn, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.;3/4;1
+Kavaron Skywarden;R;{4}{R};Creature — Kavu Soldier;Edge of Eternities;2025-08-01;"Reach
+Void — At the beginning of your end step, if a nonland permanent left the battlefield this turn or a spell was warped this turn, put a +1/+1 counter on this creature.";4/5;2
+Territorial Bruntar;R;{4}{R}{R};Creature — Beast;Edge of Eternities;2025-08-01;"Reach
+Landfall — Whenever a land you control enters, exile cards from the top of your library until you exile a nonland card. You may cast that card this turn.";6/6;2
+Kav Landseeker;R;{3}{R};Creature — Kavu Soldier;Edge of Eternities;2025-08-01;"Menace (This creature can't be blocked except by two or more creatures.)
+When this creature enters, create a Lander token. At the beginning of the end step on your next turn, sacrifice that token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")";4/3;1
+Orbital Plunge;R;{3}{R};Sorcery;Edge of Eternities;2025-08-01;"Orbital Plunge deals 6 damage to target creature. If excess damage was dealt this way, create a Lander token. (It's an artifact with ""{2}, {T}, Sacrifice this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle."")";/;1
+Bombard;R;{2}{R};Instant;Edge of Eternities;2025-08-01;Bombard deals 4 damage to target creature.;/;1
+Boulder Salvo;R;{4}{R};Sorcery;Oath of the Gatewatch;2016-01-22;"Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)
+Boulder Salvo deals 4 damage to target creature.";/;1
+Pain for All;R;{2}{R};Enchantment — Aura;Edge of Eternities;2025-08-01;"Enchant creature you control
+When this Aura enters, enchanted creature deals damage equal to its power to any other target.
+Whenever enchanted creature is dealt damage, it deals that much damage to each opponent.";/;1
+Nebula Dragon;R;{6}{R};Creature — Dragon;Edge of Eternities;2025-08-01;"Flying
+When this creature enters, it deals 3 damage to any target.";4/4;1
